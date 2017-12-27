@@ -48,3 +48,8 @@ https://github.com/gemfire/cf-gemfire-connector-examples
 
 
 GEMFIRE SERVICE INSTNACE - http://docs.pivotal.io/gemfire-cf/using_the_data_service.html
+
+Gemfire Bosh Release
+
+https://github.com/Pivotal-Field-Engineering/gemfire-bosh-release
+
