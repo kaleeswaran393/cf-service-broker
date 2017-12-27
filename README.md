@@ -20,7 +20,7 @@ https://docs.pivotal.io/tiledev/2-0/development.html
 https://docs.pivotal.io/tiledev/2-0/tile-generator.html
 
 
-System Managed vs User Managed Service
+System Managed vs User Managed Service vs Spring cloud connector
 
 https://github.com/cloudfoundry-samples/spring-music
 
